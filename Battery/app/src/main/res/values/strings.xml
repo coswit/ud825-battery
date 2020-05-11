@@ -29,5 +29,6 @@
     <string name="waiting_for_power">This feature works best when plugged in. Let\'s wait together!</string>
     <string name="poll_server_button">Poll smarter, be smarter.</string>
     <string name="network_button">Patience is a virtue [for data!]</string>
-
+    <string name="wakelock_acquired">Wakelock acquired! Polling server...</string>
+    <string name="wakelock_released">Wakelock released! Well done, you.</string>
 </resources>
